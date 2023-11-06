@@ -73,7 +73,7 @@ button#close-button {
     margin-top: 2rem;
 }
 
-body{
+.main{
     border: 1px solid gray;
     width: 42%;
     margin: 1px auto;
